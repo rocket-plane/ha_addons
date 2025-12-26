@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: A Collection of ohAnd's Add-ons for Home Assistant
-url: 'https://github.com/ohAnd/ha_addons'
-maintainer: ohand <15704728+ohAnd@users.noreply.github.com>
+name: A Collection of ohAnd's Add-ons for Home Assistant (rocket-plane)
+url: 'https://github.com/rocket-plane/ha_addons'
+maintainer: rocket-plane
